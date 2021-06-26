@@ -1,2 +1,2 @@
 def sub(x, y):
-    pass
+    return x-y

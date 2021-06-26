@@ -1,2 +1,2 @@
 def mul(x, y):
-    pass
+    return x*y
